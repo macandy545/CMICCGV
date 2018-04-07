@@ -1,0 +1,35 @@
+    <script src="<?php echo base_url(); ?>webroot/plugins/jquery/jquery.min.js"></script>
+    <script src="<?php echo base_url(); ?>webroot/js/admin_js/admin.js"></script>
+    <script src="<?php echo base_url(); ?>webroot/js/admin_js/snd_msg.js"></script>
+    <script src="<?php echo base_url(); ?>webroot/plugins/bootstrap/js/bootstrap.js"></script>
+    <script src="<?php echo base_url(); ?>webroot/plugins/bootstrap-select/js/bootstrap-select.js"></script>
+    <script src="<?php echo base_url(); ?>webroot/plugins/jquery-slimscroll/jquery.slimscroll.js"></script>
+    <script src="<?php echo base_url(); ?>webroot/plugins/node-waves/waves.js"></script>
+    <script src="<?php echo base_url(); ?>webroot/plugins/bootstrap-notify/bootstrap-notify.js"></script>
+    <script src="<?php echo base_url(); ?>webroot/plugins/morrisjs/morris.js"></script> -->
+    <script src="<?php echo base_url(); ?>webroot/js/admin.js"></script>
+    <script src="<?php echo base_url(); ?>webroot/js/pages/ui/modals.js"></script>
+    <script src="<?php echo base_url(); ?>webroot/js/demo.js"></script>
+    <script src="<?php echo base_url(); ?>webroot/plugins/jquery-countto/jquery.countTo.js"></script>
+    <script src="<?php echo base_url(); ?>webroot/plugins/jquery-datatable/jquery.dataTables.js"></script>
+    <script src="<?php echo base_url(); ?>webroot/plugins/jquery-datatable/skin/bootstrap/js/dataTables.bootstrap.js"></script>
+    <script src="<?php echo base_url(); ?>webroot/plugins/jquery-datatable/extensions/export/dataTables.buttons.min.js"></script>
+    <script src="<?php echo base_url(); ?>webroot/plugins/jquery-datatable/extensions/export/buttons.flash.min.js"></script>
+    <script src="<?php echo base_url(); ?>webroot/plugins/jquery-datatable/extensions/export/jszip.min.js"></script>
+    <script src="<?php echo base_url(); ?>webroot/plugins/jquery-datatable/extensions/export/pdfmake.min.js"></script>
+    <script src="<?php echo base_url(); ?>webroot/plugins/jquery-datatable/extensions/export/vfs_fonts.js"></script>
+    <script src="<?php echo base_url(); ?>webroot/plugins/jquery-datatable/extensions/export/buttons.html5.min.js"></script>
+    <script src="<?php echo base_url(); ?>webroot/plugins/jquery-datatable/extensions/export/buttons.print.min.js"></script>
+    <script src="<?php echo base_url(); ?>webroot/js/pages/tables/jquery-datatable.js"></script>
+    <script src="<?php echo base_url(); ?>webroot/plugins/jquery-steps/jquery.steps.js"></script>
+    <script src="<?php echo base_url(); ?>webroot/plugins/jquery-validation/jquery.validate.js"></script>
+    <script src="<?php echo base_url(); ?>webroot/plugins/sweetalert/sweetalert.min.js"></script>
+    <script src="<?php echo base_url(); ?>webroot/js/pages/forms/form-wizard.js"></script>
+    <script src="<?php echo base_url(); ?>webroot/plugins/jquery-sparkline/jquery.sparkline.js"></script>
+    <script src="<?php echo base_url(); ?>webroot/js/pages/index.js"></script>
+    <script src="<?php echo base_url(); ?>webroot/js/pages/ui/tooltips-popovers.js"></script>
+    <script src="<?php echo base_url(); ?>webroot/plugins/bootstrap-select/js/bootstrap-select.js"></script>
+    <script src="<?php echo base_url(); ?>webroot/js/highcharts.js"></script>
+    <script src="<?php echo base_url(); ?>webroot/js/exporting.js"></script>
+</body>
+</html>
